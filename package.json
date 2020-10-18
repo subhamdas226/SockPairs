@@ -1,0 +1,16 @@
+{
+  "name": "sockpairs",
+  "version": "1.0.0",
+  "description": "Finding the pairs of socks in array",
+  "main": "sockPairs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subham Das",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.5",
+    "prompt-sync": "^4.2.0",
+    "readline": "^1.3.0"
+  }
+}
